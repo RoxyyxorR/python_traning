@@ -1,1 +1,1 @@
-# python_traning
+# More information about project
