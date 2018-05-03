@@ -1,3 +1,4 @@
 {
-  "test_log_in.py::UntitledTestCase::test_untitled_test_case": true
+  "test_log_in.py::UntitledTestCase::test_untitled_test_case": true,
+  "test_log_out.py::UntitledTestCase::test_untitled_test_case": true
 }
